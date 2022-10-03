@@ -9,7 +9,6 @@
 /storybook-static
 /docs
 /tests/kendo-themes/tests/visual/styles
-/cypress
 
 # dependencies
 /node_modules
