@@ -32,10 +32,11 @@ npm run cypress:open
 ```
 
 # Useful links
-* [ Introduction to End-to-End testing with Cypress](https://wanago.io/2019/12/30/javascript-testing-introduction-end-to-end-testing-cypress/).
-* [Why Cypress?](https://docs.cypress.io/guides/overview/why-cypress).
-* [Пирамида тестирования на практике.](https://dou.ua/lenta/columns/testing-in-jiji/).
-* [Пирамида тестирования](https://tlroadmap.io/roles/technical-lead/product-quality/testing/test-pyramid.html)
+* [ Introduction to End-to-End testing with Cypress.](https://wanago.io/2019/12/30/javascript-testing-introduction-end-to-end-testing-cypress/)
+* [Why Cypress?](https://docs.cypress.io/guides/overview/why-cypress)
+* [Cypress best practices](https://docs.cypress.io/guides/references/best-practices)
+* [Пирамида тестирования на практике.](https://dou.ua/lenta/columns/testing-in-jiji/)
+* [Пирамида тестирования.](https://tlroadmap.io/roles/technical-lead/product-quality/testing/test-pyramid.html)
 
 
 
