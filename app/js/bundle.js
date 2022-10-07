@@ -17,7 +17,7 @@ function printAction(val) {
   }
 }
 
-function print(val) {
+function printDigit(val) {
   dashboard.value += val
 }
 
@@ -53,7 +53,7 @@ function save() {
 }
 
 function paste() {
-  print(localStorage.getItem('result'))
+  printDigit(localStorage.getItem('result'))
 }
 
 
